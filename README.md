@@ -12,3 +12,5 @@ Aproveitando esse momento de quarentena, pensei ser uma boa ideia mostrar como u
 
 ## BORA!
 
+![Para continuar, clique no campo abaixo](.gitbook/assets/seta-animada-gif-grc3a1tis-3.gif)
+
