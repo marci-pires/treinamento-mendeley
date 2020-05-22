@@ -8,7 +8,7 @@ description: Primeira visão
 
 Desenvolvido em 2008 por três estudantes de pós-graduação;
 
-## O Mendeley está disponível nas versões Web, Desktop e Mobile é importante sincronizá-las sempre pelo ícone ![](../../.gitbook/assets/image%20%2831%29.png) 
+## O Mendeley está disponível nas versões Web, Desktop e Mobile é importante sincronizá-las sempre pelo ícone ![](../../.gitbook/assets/image%20%2835%29.png) 
 
 ### **Sobre a funcionalidade e compatibilidade do programa:**
 
