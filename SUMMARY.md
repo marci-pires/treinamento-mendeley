@@ -6,7 +6,7 @@
 
 ## APRESENTAÇÃO
 
-* [✳ Primeiros Passos](apresentacao/primeiros-passos.md)
+* [✳ Primeiros Passos para o Treinamento](apresentacao/primeiros-passos.md)
 
 ## 101
 
@@ -30,4 +30,5 @@
 
 * [Web Importer](web/web-importer.md)
 * [Plataforma Web](web/plataforma-web.md)
+* [Referências Bibliográficas](referencias-bibliograficas.md)
 

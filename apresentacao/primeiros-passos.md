@@ -1,4 +1,4 @@
-# ✳ Primeiros Passos
+# ✳ Primeiros Passos para o Treinamento
 
 Para podermos organizar nossas dúvidas e compartilhar conhecimento, vocês podem usar o nosso [Padlet](%20https://padlet.com/marcelaestevanovic/gti8p617j133cnoo)
 
