@@ -22,7 +22,11 @@ Para problemas sérios!!
 Para dicas e boas práticas
 {% endhint %}
 
+## Esse manual é resultado de um projeto de Extensão do Programa de Pós Graduação em Gestão e Organização do Conhecimento da UFMG
+
+![](.gitbook/assets/logo-pos-alt2-231x300.png)
+
 ## Espero que gostem e que esse material possa ser útil!
 
-Marcelinha!
+Benildes e Marcela
 

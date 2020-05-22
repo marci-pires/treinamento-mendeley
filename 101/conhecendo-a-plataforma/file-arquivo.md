@@ -43,3 +43,7 @@ Não selecione todas as possíveis, mas somente as que você separar para as bib
 
 ## Sincronizar
 
+{% hint style="danger" %}
+Sempre sincronizar a cada alteração!
+{% endhint %}
+
