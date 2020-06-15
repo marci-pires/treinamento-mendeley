@@ -6,9 +6,15 @@ description: 'Ultima edição: 22/05/2020'
 
 ## Que bom te ver por aqui!
 
-Aproveitando esse momento de quarentena, pensei ser uma boa ideia mostrar como uso uma ferramenta bacanérrima de gerenciar de referências: o Mendeley
+Aproveitando esse momento de quarentena, pensei ser uma boa ideia mostrar como uso uma ferramenta bacanérrima de gerenciar de referências: o Mendeley Desktop
 
 ![](.gitbook/assets/b87965180922cdf4c79f83a6650fc570.gif)
+
+{% hint style="info" %}
+Se você gosta de um videozinho, gravamos um dos nossos treinamentos. Acesse o vídeo clicando[ aqui](https://youtu.be/8LxSOqP-5TU)
+
+Dá um joia da alegria e compartilhe com quem quiser!!!!! 
+{% endhint %}
 
 ## BORA!
 
