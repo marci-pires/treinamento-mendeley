@@ -30,5 +30,9 @@
 
 * [Web Importer](web/web-importer.md)
 * [Plataforma Web](web/plataforma-web.md)
+
+---
+
 * [Referências Bibliográficas](referencias-bibliograficas.md)
+* [Proposta de divisão](proposta-de-divisao.md)
 
