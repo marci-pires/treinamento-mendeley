@@ -34,5 +34,4 @@
 ---
 
 * [Referências Bibliográficas](referencias-bibliograficas.md)
-* [Proposta de divisão](proposta-de-divisao.md)
 
