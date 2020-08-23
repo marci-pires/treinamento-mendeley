@@ -12,7 +12,6 @@
 
 * [Conhecendo a plataforma](101/conhecendo-a-plataforma/README.md)
   * [File \(Arquivo\)](101/conhecendo-a-plataforma/file-arquivo.md)
-  * [Edit \(Editar\)](101/conhecendo-a-plataforma/edit-editar.md)
   * [View \(Visualizar\)](101/conhecendo-a-plataforma/view-visualizar.md)
   * [Tools \(Ferramentas\)](101/conhecendo-a-plataforma/tools-ferramentas/README.md)
     * [Plug-in Word](101/conhecendo-a-plataforma/tools-ferramentas/plug-in-word.md)
