@@ -1,8 +1,5 @@
-# Criando e utilizando pastas
+# Criando e utilizando coleções
 
-![](../../.gitbook/assets/image%20%2839%29.png)
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-![](../../.gitbook/assets/image%20%2824%29.png)
-
-
-
+<figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>

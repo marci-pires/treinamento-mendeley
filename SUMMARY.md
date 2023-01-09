@@ -11,16 +11,17 @@
 ## 101
 
 * [Conhecendo a plataforma](101/conhecendo-a-plataforma/README.md)
-  * [File \(Arquivo\)](101/conhecendo-a-plataforma/file-arquivo.md)
-  * [View \(Visualizar\)](101/conhecendo-a-plataforma/view-visualizar.md)
-  * [Tools \(Ferramentas\)](101/conhecendo-a-plataforma/tools-ferramentas/README.md)
-    * [Plug-in Word](101/conhecendo-a-plataforma/tools-ferramentas/plug-in-word.md)
-    * [Opções](101/conhecendo-a-plataforma/tools-ferramentas/opcoes.md)
+  * [Tools (Ferramentas)](101/conhecendo-a-plataforma/tools-ferramentas.md)
+  * [Plug-in Word](101/conhecendo-a-plataforma/plug-in-word.md)
+  * [Páginas Mendeley Desktop](101/conhecendo-a-plataforma/paginas-mendeley-desktop/README.md)
+    * [old Manager - View (Visualizar)](101/conhecendo-a-plataforma/paginas-mendeley-desktop/view-visualizar.md)
+    * [old Manager - File (Arquivo)](101/conhecendo-a-plataforma/paginas-mendeley-desktop/file-arquivo.md)
+    * [old Manager - Opções](101/conhecendo-a-plataforma/paginas-mendeley-desktop/opcoes.md)
 
 ## MÃO NA MASSA
 
 * [Trabalhando com os arquivos](mao-na-massa/untitled-1/README.md)
-  * [Criando e utilizando pastas](mao-na-massa/untitled-1/criando-e-utilizando-pastas.md)
+  * [Criando e utilizando coleções](mao-na-massa/untitled-1/criando-e-utilizando-pastas.md)
   * [Adicionar arquivos](mao-na-massa/untitled-1/adicionar-arquivos.md)
   * [Formatar as Informações](mao-na-massa/untitled-1/formatar-as-informacoes.md)
   * [Realizar Leitura e Anotações](mao-na-massa/untitled-1/realizar-leitura-e-anotacoes.md)
@@ -30,7 +31,6 @@
 * [Web Importer](web/web-importer.md)
 * [Plataforma Web](web/plataforma-web.md)
 
----
+***
 
 * [Referências Bibliográficas](referencias-bibliograficas.md)
-

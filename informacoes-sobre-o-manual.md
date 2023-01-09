@@ -1,10 +1,10 @@
 # INFORMAÇÕES SOBRE O MANUAL
 
-### A navegação nesse manual _online_ é bem simples! 
+### A navegação nesse manual _online_ é bem simples!&#x20;
 
 ### Do lado esquerdo, temos o sumário e do direito algumas opções para navegar entre os subtítulos da página.
 
-Para facilitar a compreensão, no decorrer do texto, vocês encontrarão caixas como as abaixo. Elas vão servir para ajudar a compreensão e chamar atenção para pontos importantes! 🤓 
+Para facilitar a compreensão, no decorrer do texto, vocês encontrarão caixas como as abaixo. Elas vão servir para ajudar a compreensão e chamar atenção para pontos importantes! :nerd:&#x20;
 
 {% hint style="info" %}
 Para informações importantes e complementares
@@ -29,4 +29,3 @@ Para dicas e boas práticas
 ## Espero que gostem e que esse material possa ser útil!
 
 Benildes e Marcela
-

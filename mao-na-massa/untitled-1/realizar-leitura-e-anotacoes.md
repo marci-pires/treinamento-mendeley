@@ -2,7 +2,4 @@
 
 Dois cliques no arquivo desejado
 
-![](../../.gitbook/assets/image%20%2815%29.png)
-
-### Já podemos notar algumas mudanças na barra de ferramentas!
-
+<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
