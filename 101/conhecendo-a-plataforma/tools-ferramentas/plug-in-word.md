@@ -2,13 +2,11 @@
 
 ## Instalação
 
-Clique em `Tools>Install MS Word Plugin`
+Clique em `Tools>Install Mendeley Cite for Microsoft Word`
 
-![](../../../.gitbook/assets/image%20%2828%29.png)
+<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
-É bem simples mesmo! Se o Word estiver fechado, o programa será instalado automaticamente
-
-![](../../../.gitbook/assets/image%20%2843%29.png)
+<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 ![](../../../.gitbook/assets/gif-uau.gif)
 
@@ -16,21 +14,40 @@ Clique em `Tools>Install MS Word Plugin`
 
 Abra o documento no Word e selecione na aba de ferramentas `Referências`
 
-![](../../../.gitbook/assets/image%20%2834%29.png)
+<figure><img src="../../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 A bibliografia estará no estilo que você selecionou
 {% endhint %}
 
-![](../../../.gitbook/assets/image%20%2833%29.png)
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Você deve ter percebido que a bibliografia completa está com umas informações faltando. Para corrigir isso, vá até o arquivo no Mendeley e edite as informações!
 {% endhint %}
 
-## Desinstalação
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-Se, por alguma razão misteriosa, o plug-in apresentar problemas, desinstalar é fácil! Só clicar em `Tools>Unistall MS Word Plugin`
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-![](../../../.gitbook/assets/image%20%2827%29.png)
+<figure><img src="../../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+
+## Inserir Bibliografia
+
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>

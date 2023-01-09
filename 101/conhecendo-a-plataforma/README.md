@@ -13,4 +13,4 @@
   * 2GB de espaço gratuito para adicionar arquivos - anexos
   * 100MB de armazenamento gratuito para compartilhamento de arquivos.
 
-<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>

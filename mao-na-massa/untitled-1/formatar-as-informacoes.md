@@ -4,7 +4,7 @@
 Para conferir as referências e tirar dúvidas acesse o [manual da ECI](http://normalizacao.eci.ufmg.br/?Refer%EAncias)
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## DOI (_Digital Object Identifier_ ou Identificador de Objeto Digital)
 

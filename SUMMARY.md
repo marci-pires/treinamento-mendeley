@@ -11,12 +11,12 @@
 ## 101
 
 * [Conhecendo a plataforma](101/conhecendo-a-plataforma/README.md)
-  * [Tools (Ferramentas)](101/conhecendo-a-plataforma/tools-ferramentas.md)
-  * [Plug-in Word](101/conhecendo-a-plataforma/plug-in-word.md)
+  * [Tools (Ferramentas)](101/conhecendo-a-plataforma/tools-ferramentas/README.md)
+  * [Plug-in Word](101/conhecendo-a-plataforma/tools-ferramentas/plug-in-word.md)
   * [Páginas Mendeley Desktop](101/conhecendo-a-plataforma/paginas-mendeley-desktop/README.md)
-    * [old Manager - View (Visualizar)](101/conhecendo-a-plataforma/paginas-mendeley-desktop/view-visualizar.md)
-    * [old Manager - File (Arquivo)](101/conhecendo-a-plataforma/paginas-mendeley-desktop/file-arquivo.md)
-    * [old Manager - Opções](101/conhecendo-a-plataforma/paginas-mendeley-desktop/opcoes.md)
+    * [old Manager - View (Visualizar)](101/conhecendo-a-plataforma/view-visualizar.md)
+    * [old Manager - File (Arquivo)](101/conhecendo-a-plataforma/file-arquivo.md)
+    * [old Manager - Opções](101/conhecendo-a-plataforma/tools-ferramentas/opcoes.md)
 
 ## MÃO NA MASSA
 

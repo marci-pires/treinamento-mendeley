@@ -1,3 +1,3 @@
 # Plataforma Web
 
-![](<../.gitbook/assets/image (49).png>)
+![](<../.gitbook/assets/image (10).png>)
